@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Leave empty if you don't want to show changelog date -->
+    <string name="changelog_date">November 7, 2016</string>
+
+    <!-- Changelog support html formatting
+    * <b> for Bold
+    * <i> for Italic
+    * <u> for Underline -->
+    <string-array name="changelog">
+        <item>版本最初发布</item>
+        <item>添加了一些最基本的图标</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <version>1</version>
+
+    <category title="Newly Added" />
+    <item drawable="email" />
+    <item drawable="camera" />
+    <item drawable="keyboard" />
+
+    <category title="All apps" />
+    <item drawable = "xindongfang_leci" />
+    <item drawable = "ofo" />
+    <item drawable = "didi" />
+    <item drawable = "bilibili" />
+    <item drawable = "baidu_baidutieba" />
+    <item drawable = "androidterm" />
+    <item drawable = "qsdcpulock" />
+    <item drawable = "nasa" />
+    <item drawable = "meituan" />
+    <item drawable = "coolapkmarket" />
+    <item drawable = "geenify" />
+
+
+    <item drawable = "alibaba_alibaba" />
+    <item drawable = "alibaba_alliance" />
+    <item drawable = "alibaba_cainiao" />
+    <item drawable = "alibaba_college" />
+    <item drawable = "alibaba_juhuasuan" />
+    <item drawable = "alibaba_koubei" />
+    <item drawable = "alibaba_mobileim" />
+    <item drawable = "alibaba_moneyshield copy" />
+    <item drawable = "alibaba_moneyshield" />
+    <item drawable = "alibaba_newjob" />
+    <item drawable = "alibaba_nianniu" />
+    <item drawable = "alibaba_pay" />
+    <item drawable = "alibaba_shoujitaobao" />
+    <item drawable = "alibaba_shoujitaobao_glo" />
+    <item drawable = "alibaba_smartdial" />
+    <item drawable = "alibaba_taobaoreader" />
+    <item drawable = "alibaba_tianmao" />
+    <item drawable = "alibaba_wifi" />
+    <item drawable = "alibaba_xianyu" />
+
+    <item  drawable = "sony_album" />
+    <item  drawable = "sony_calculator2" />
+    <item  drawable = "sony_calerdar" />
+    <item  drawable = "sony_camera" />
+    <item  drawable = "sony_chinastore" />
+    <item  drawable = "sony_dashbaord" />
+    <item  drawable = "sony_email" />
+    <item  drawable = "sony_fmradio" />
+    <item  drawable = "sony_lifelog" />
+    <item  drawable = "sony_moviecreator" />
+    <item  drawable = "sony_news" />
+    <item  drawable = "sony_people" />
+    <item  drawable = "sony_phone" />
+    <item  drawable = "sony_playstation" />
+    <item  drawable = "sony_settings" />
+    <item  drawable = "sony_smart_connect" />
+    <item  drawable = "sony_support" />
+    <item  drawable = "sony_time" />
+    <item  drawable = "sony_trackid" />
+    <item  drawable = "sony_video" />
+
+    <item drawable = "xiaomi_bugreport" />
+    <item drawable = "xiaomi_calculator" />
+    <item drawable = "xiaomi_camera" />
+    <item drawable = "xiaomi_compass" />
+    <item drawable = "xiaomi_contacts" />
+    <item drawable = "xiaomi_downloads" />
+    <item drawable = "xiaomi_duokanreader" />
+    <item drawable = "xiaomi_email" />
+    <item drawable = "xiaomi_gallery" />
+    <item drawable = "xiaomi_gamecenter" />
+    <item drawable = "xiaomi_health" />
+    <item drawable = "xiaomi_jr" />
+    <item drawable = "xiaomi_market" />
+    <item drawable = "xiaomi_mipay" />
+    <item drawable = "xiaomi_miuibbs" />
+    <item drawable = "xiaomi_mms" />
+    <item drawable = "xiaomi_music" />
+    <item drawable = "xiaomi_notes" />
+    <item drawable = "xiaomi_o2o" />
+    <item drawable = "xiaomi_remotecontroller" />
+    <item drawable = "xiaomi_scanner" />
+    <item drawable = "xiaomi_screenrecorder" />
+    <item drawable = "xiaomi_securityscan" />
+    <item drawable = "xiaomi_setting" />
+    <item drawable = "xiaomi_shop" />
+    <item drawable = "xiaomi_smarthome" />
+    <item drawable = "xiaomi_soundrecorder" />
+    <item drawable = "xiaomi_thememanager" />
+    <item drawable = "xiaomi_video" />
+    <item drawable = "xiaomi_vipaccount" />
+    <item drawable = "xiaomi_virtualsim" />
+    <item drawable = "xiaomi_voiceassist" />
+    <item drawable = "xiaomi_weather2" />
+
+
+    <category title="Xiaomi" />
+    <item drawable = "xiaomi_bugreport" />
+    <item drawable = "xiaomi_calculator" />
+    <item drawable = "xiaomi_camera" />
+    <item drawable = "xiaomi_compass" />
+    <item drawable = "xiaomi_contacts" />
+    <item drawable = "xiaomi_downloads" />
+    <item drawable = "xiaomi_duokanreader" />
+    <item drawable = "xiaomi_email" />
+    <item drawable = "xiaomi_gallery" />
+    <item drawable = "xiaomi_gamecenter" />
+    <item drawable = "xiaomi_health" />
+    <item drawable = "xiaomi_jr" />
+    <item drawable = "xiaomi_market" />
+    <item drawable = "xiaomi_mipay" />
+    <item drawable = "xiaomi_miuibbs" />
+    <item drawable = "xiaomi_mms" />
+    <item drawable = "xiaomi_music" />
+    <item drawable = "xiaomi_notes" />
+    <item drawable = "xiaomi_o2o" />
+    <item drawable = "xiaomi_remotecontroller" />
+    <item drawable = "xiaomi_scanner" />
+    <item drawable = "xiaomi_screenrecorder" />
+    <item drawable = "xiaomi_securityscan" />
+    <item drawable = "xiaomi_setting" />
+    <item drawable = "xiaomi_shop" />
+    <item drawable = "xiaomi_smarthome" />
+    <item drawable = "xiaomi_soundrecorder" />
+    <item drawable = "xiaomi_thememanager" />
+    <item drawable = "xiaomi_video" />
+    <item drawable = "xiaomi_vipaccount" />
+    <item drawable = "xiaomi_virtualsim" />
+    <item drawable = "xiaomi_voiceassist" />
+    <item drawable = "xiaomi_weather2" />
+
+
+    <category title="Sony" />
+    <item  drawable = "sony_album" />
+    <item  drawable = "sony_calculator2" />
+    <item  drawable = "sony_calerdar" />
+    <item  drawable = "sony_camera" />
+    <item  drawable = "sony_chinastore" />
+    <item  drawable = "sony_dashbaord" />
+    <item  drawable = "sony_email" />
+    <item  drawable = "sony_fmradio" />
+    <item  drawable = "sony_lifelog" />
+    <item  drawable = "sony_moviecreator" />
+    <item  drawable = "sony_news" />
+    <item  drawable = "sony_people" />
+    <item  drawable = "sony_phone" />
+    <item  drawable = "sony_playstation" />
+    <item  drawable = "sony_settings" />
+    <item  drawable = "sony_smart_connect" />
+    <item  drawable = "sony_support" />
+    <item  drawable = "sony_time" />
+    <item  drawable = "sony_trackid" />
+    <item  drawable = "sony_video" />
+
+
+    <category title="Ali" />
+
+    <item drawable = "alibaba_alibaba" />
+    <item drawable = "alibaba_alliance" />
+    <item drawable = "alibaba_cainiao" />
+    <item drawable = "alibaba_college" />
+    <item drawable = "alibaba_juhuasuan" />
+    <item drawable = "alibaba_koubei" />
+    <item drawable = "alibaba_mobileim" />
+    <item drawable = "alibaba_moneyshield copy" />
+    <item drawable = "alibaba_moneyshield" />
+    <item drawable = "alibaba_newjob" />
+    <item drawable = "alibaba_nianniu" />
+    <item drawable = "alibaba_pay" />
+    <item drawable = "alibaba_shoujitaobao" />
+    <item drawable = "alibaba_shoujitaobao_glo" />
+    <item drawable = "alibaba_smartdial" />
+    <item drawable = "alibaba_taobaoreader" />
+    <item drawable = "alibaba_tianmao" />
+    <item drawable = "alibaba_wifi" />
+    <item drawable = "alibaba_xianyu" />
+
+
+</resources>
